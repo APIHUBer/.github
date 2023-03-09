@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="logo.svg" width="220" />
-</p>
+![logo](logo.svg)
 
 ## Technologies
 
