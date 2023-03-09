@@ -1,5 +1,6 @@
-
-![logo](https://cs410032002121be004.blob.core.windows.net/icon/logo.svg)
+<p align="center">
+  <img src="https://cs410032002121be004.blob.core.windows.net/icon/logo.svg" width="250" />
+</p>
 
 ## Technologies
 
