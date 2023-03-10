@@ -6,7 +6,7 @@
 > `APIHUB` is an API interface open calling platform based on React(Typescript), Spring Boot, Dubbo, and Gateway. Administrators can integrate and release APIs, visualize the usage of each API, and grant access to users for calling APIs, browsing APIs, and online debugging. Users can easily call APIs through a client SDK.
 
 > According to the business process, the entire backend of the project is divided into 5 sub-projects: web system, simulated interfaces, public modules, client SDK, and API gateway, and managed with Maven for multi-module dependency management and packaging.
-> 
+>
 
 - Using the `Ant Design Pro` and a self-built `Spring Boot` project template, the initial web project was quickly constructed, and basic capabilities such as unified permission management and multi-environment switching were implemented for front-end and back-end.
 
@@ -35,6 +35,13 @@
 ### Backend
 - Java Spring Boot
 - Spring Boot Starter(SDK Development)
--
+- Spring Cloud Gateway
+- Spring MVC
+- MySQL
+- MyBatis Plus
+- MyBatis X
+- Swagger
+- Knife4j
+
 
 ## processing...
