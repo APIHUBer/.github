@@ -48,8 +48,8 @@
 
 
 ## Architecture
-![image](./images/Architecture.png)
-![image](./images/registry_center.png)
+![Architecture](https://user-images.githubusercontent.com/59616360/226796867-6126aea9-e3cf-4bc3-975a-19e173b34c52.png)
+![registry_center](https://user-images.githubusercontent.com/59616360/226796887-80367699-8c6c-48af-ba29-e2d6c20773fc.png)
 
 
 ## Images
