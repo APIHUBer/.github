@@ -41,9 +41,15 @@
 - MyBatis Plus
 - MyBatis X
 - Swagger
-- Knife4j
+- [Knife4j](https://doc.xiaominfo.com/)
+- [Nacos](https://nacos.io/en-us/docs/v2/quickstart/quick-start.html)
 
 
 
 
-## processing...
+## Architecture
+![image](./images/Architecture.png)
+![image](./images/registry_center.png)
+
+
+## Images
